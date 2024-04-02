@@ -35,7 +35,7 @@ You will code a simple guessing game.
     - If they guess it wrong, tell them what the hidden number was.
     - The game ends.
 
-When you have finished (or the deadline is met), upload your code to GitHub using the Source Control menu in VSCode. Ask Mr. Brash if you need help with this.
+When you have finished (or the deadline is met), upload your code to GitHub using the Source Control menu in VSCode, or use GitHub Desktop. Ask Mr. J 🐠 if you need help with this.
 
 <br>
 
